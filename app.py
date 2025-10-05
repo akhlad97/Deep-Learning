@@ -1,6 +1,6 @@
 import streamlit as st
 import numpy as np
-import tensorflow
+import tensorflow as st
 from sklearn.preprocessing import StandardScaler ,OneHotEncoder,LabelEncoder
 import pandas as pd
 import pickle
