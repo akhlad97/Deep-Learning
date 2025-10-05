@@ -1,7 +1,9 @@
-pytorch
+torch
+torchvision
+torchaudio
 tensorflow
 numpy
-pandas 
+pandas
 scikit-learn
 matplotlib
 seaborn
